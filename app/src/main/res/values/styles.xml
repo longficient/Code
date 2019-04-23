@@ -1,0 +1,16 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPink</item>
+        <item name="colorPrimaryDark">@color/colorPink</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowBackground">@color/whyte</item>
+    </style>
+    <style name="Theme.Splash" parent="@android:style/Theme.Holo.Light">
+        <item name="android:windowBackground">@color/colorPink</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+</resources>
